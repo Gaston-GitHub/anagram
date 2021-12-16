@@ -1,0 +1,32 @@
+{
+  "name": "anagram",
+  "version": "1.0.0",
+  "description": "Program which finds all anagrams of the user's input word in dictionary",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --detectOpenHandles"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gaston-GitHub/anagram.git"
+  },
+  "keywords": [
+    "anagram",
+    "word",
+    "wordlist",
+    "txt"
+  ],
+  "author": "Gaston",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gaston-GitHub/anagram/issues"
+  },
+  "homepage": "https://github.com/Gaston-GitHub/anagram#readme",
+  "dependencies": {
+    "line-by-line": "^0.1.6",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "jest": "^27.4.5"
+  }
+}
